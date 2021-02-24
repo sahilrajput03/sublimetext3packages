@@ -1,0 +1,4 @@
+#!/bin/bash
+naked git add Packages.rar scripts--push-packages-to-github
+naked "git commit -m 'Caution, only upload using push packages scripts'"
+naked git push origin master
